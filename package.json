@@ -1,0 +1,17 @@
+{
+  "name": "desafio_teste_domino",
+  "version": "1.0.0",
+  "description": "Casos de teste automatizados para uma partida de domino entre dois jogadores.",
+  "main": "domino.js",
+  "scripts": {
+    "test": "node --test domino.test.js"
+  },
+  "keywords": [
+    "domino",
+    "testes",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
